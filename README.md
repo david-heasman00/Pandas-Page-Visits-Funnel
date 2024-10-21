@@ -1,6 +1,6 @@
 # Pandas-Page-Visits-Funnel
 
-Hi there. 
+Hi there, 
 
 If you're viewing this, you're probably shopping around my portfolio. Maybe you're my future boss. Maybe you're a recruiter. Maybe you're a future client. Or maybe you're just a curious person. 
 
